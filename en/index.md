@@ -273,11 +273,11 @@ free
 </li>
         <li class="mt-4">
 <span class="font-semibold">Orthomolecular medicine consultation</span><br>
-€ 45 per 30 minutes (reimbursed with code 24000)
+€ 45 per 30 minutes (reimbursed with code 24000 until 31-12-26)
 </li>
         <li class="mt-4">
 <span class="font-semibold">Reflex zone therapy</span><br>
-€ 45 per 30 minutes (reimbursed with code 24009)
+€ 45 per 30 minutes (reimbursed with code 24009 until 31-12-26)
 </li>
         <li class="mt-4">
 <span class="font-semibold">Integral naturopathic consultation</span><br>
@@ -288,10 +288,10 @@ free
 € 100 per hour
 </li>
 <br>
-<span class="font-semibold">My consultations are (partly) reimbursed by:</span>
+<span class="font-semibold">My consultations are (partly) reimbursed until 31-12-2026 by:</span>
 
 Zilveren Kruis Achmea, CZ, Nationale Nederlanden, Ohra, De Friesland, ONVZ, PNO, Menzis, VGZ, IZZ, IZA, Univé, UMC and United Consumers. The amount that is reimbursed per consultation depends on your
-insurance policy and their policy conditions.
+insurance policy and their policy conditions. From 01-01-2027 onwards, consultations will no longer be reimbursed by health insurers.
 <br><br>
 <a href="/public/pdfs/anne-claire_A4_voorwaarden_E.pdf" target="_blank" class="underline">Terms & conditions, privacy policy and complaints procedure</a>
 </ul>

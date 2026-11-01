@@ -277,11 +277,11 @@ kosteloos
 </li>
         <li class="mt-4">
 <span class="font-semibold">Orthomoleculaire geneeskunde</span><br>
-€ 45 per 30 minuten (vergoeding onder code 24000)
+€ 45 per 30 minuten (vergoeding onder code 24000 t/m 31-12-26)
 </li>
         <li class="mt-4">
 <span class="font-semibold">Reflexzone therapie</span><br>
-€ 45 per 30 minuten (vergoeding onder code 24009)
+€ 45 per 30 minuten (vergoeding onder code 24009 t/m 31-12-26)
 </li>
         <li class="mt-4">
 <span class="font-semibold">Integraal natuurgeneeskundig consult</span><br>
@@ -292,9 +292,9 @@ kosteloos
 € 100 per uur
 </li>
 <br>
-<span class="font-semibold">Mijn consulten worden (gedeeltelijk) vergoed door:</span>
+<span class="font-semibold">Mijn consulten worden t/m 31-12-2026 (gedeeltelijk) vergoed door:</span>
 
-Zilveren Kruis Achmea, CZ, Nationale Nederlanden, Ohra, De Friesland, ONVZ, PNO, Menzis, VGZ, IZZ, IZA, Univé, UMC en United Consumers. Welk bedrag per consult wordt vergoed, is afhankelijk van je polis en polisvoorwaarden.
+Zilveren Kruis Achmea, CZ, Nationale Nederlanden, Ohra, De Friesland, ONVZ, PNO, Menzis, VGZ, IZZ, IZA, Univé, UMC en United Consumers. Welk bedrag per consult wordt vergoed, is afhankelijk van je polis en polisvoorwaarden. Vanaf 01-01-2027 worden de consulten niet meer vergoed door zorgverzekeraars.
 <br><br>
 <a href="/public/pdfs/anne-claire_A4_voorwaarden_NL.pdf" target="_blank" class="underline">Voorwaarden, privacy waarborg en klachtenregeling</a>
 </ul>
